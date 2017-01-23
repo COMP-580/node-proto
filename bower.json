@@ -1,0 +1,17 @@
+{
+  "name": "node-proto",
+  "description": "",
+  "main": "/server/bin/www",
+  "authors": [
+    "tony <tzhu65@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}

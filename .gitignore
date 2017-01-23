@@ -1,0 +1,5 @@
+node_modules/**
+client/libraries/**
+server/public/html/**
+server/public/javascripts/**
+server/public/stylesheets/**
